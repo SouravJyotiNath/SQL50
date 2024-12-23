@@ -1,1 +1,1 @@
-# SQL50
+# Daily Leetcode Problems
