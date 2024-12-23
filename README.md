@@ -1,1 +1,1 @@
-# Daily Leetcode Problems
+# Practice SQL
